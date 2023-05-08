@@ -15,4 +15,4 @@
 
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-echo 'src-git sundaqiang https://github.com/sundaqiang/openwrt-packages-backup' >>feeds.conf.default
+echo 'src-git noodles8 https://github.com/HDragon8/noodles.git' >>feeds.conf.default
